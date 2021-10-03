@@ -1,0 +1,180 @@
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.About_Me.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.AboutBox.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Unit.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_User.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Designer.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Hall.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Google_Translate.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Mix_Unit.resources
+C:\Users\USER\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Unit_Hall.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.pdb
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.dll
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.xml
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csprojResolveAssemblyReference.cache
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.About_Me.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.AboutBox.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Unit.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_User.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Designer.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Google_Translate.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Hall.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Mix_Unit.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Unit_Hall.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.GenerateResource.Cache
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.CoreCompileInputs.cache
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.exe
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.pdb
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Exercise.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Word.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.pdb
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.dll
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.xml
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csprojResolveAssemblyReference.cache
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.About_Me.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.AboutBox.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Unit.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_User.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Word.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Designer.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Exercise.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Google_Translate.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Hall.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Mix_Unit.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Unit_Hall.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.GenerateResource.Cache
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.CoreCompileInputs.cache
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.exe
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.pdb
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Remove_Word.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Revise_Word.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Howtouse.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\Aspose.Words.dll
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.ResolveComReference.cache
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Howtouse.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Remove_Word.resources
+D:\Google 雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Revise_Word.resources
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\Aspose.Words.dll
+D:\Google雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.ResolveComReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\WindowsFormsApplication2.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\Aspose.Words.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.xml
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\bin\Debug\EntityFramework.SqlServer.xml
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csprojResolveAssemblyReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.ResolveComReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.About_Me.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.AboutBox.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Unit.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_User.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Word.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Designer.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Exercise.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Google_Translate.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Hall.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Howtouse.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Mix_Unit.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Remove_Word.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Revise_Word.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Unit_Hall.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Exercise2.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.BatchInsert.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.waitprint.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\英文好棒棒幫手.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Add_Word.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.BatchInsert.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Exercise.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Exercise2.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Howtouse.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Remove_Word.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.Revise_Word.resources
+C:\Users\User\Desktop\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.waitprint.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0\obj\Debug\WindowsFormsApplication2.DictionarySearch.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\WindowsFormsApplication2.exe.config
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\WindowsFormsApplication2.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\WindowsFormsApplication2.pdb
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\Aspose.Words.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\EntityFramework.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\EntityFramework.SqlServer.dll
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\EntityFramework.xml
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\bin\Debug\EntityFramework.SqlServer.xml
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\英文好棒棒幫手.csprojResolveAssemblyReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\英文好棒棒幫手.csproj.ResolveComReference.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.About_Me.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.AboutBox.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Add_Unit.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Add_User.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Add_Word.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.BatchInsert.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Designer.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.DictionarySearch.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Exercise.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Exercise2.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Google_Translate.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Hall.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Howtouse.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Mix_Unit.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Remove_Word.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Revise_Word.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.Unit_Hall.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.waitprint.resources
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\英文好棒棒幫手.csproj.GenerateResource.Cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\英文好棒棒幫手.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.exe
+G:\我的雲端硬碟\小宇酷炫程式集 C#\英文好棒棒幫手2.0 - 複製\obj\Debug\WindowsFormsApplication2.pdb
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\英文好棒棒幫手.csprojResolveAssemblyReference.cache
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\英文好棒棒幫手.csproj.ResolveComReference.cache
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.About_Me.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.AboutBox.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Add_Unit.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Add_User.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Add_Word.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.BatchInsert.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Designer.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.DictionarySearch.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Exercise.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Exercise2.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Google_Translate.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Hall.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Howtouse.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Mix_Unit.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Remove_Word.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Revise_Word.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.Unit_Hall.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.waitprint.resources
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\英文好棒棒幫手.csproj.GenerateResource.Cache
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\英文好棒棒幫手.csproj.CoreCompileInputs.cache
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.exe
+C:\User_D\Program\小宇酷炫程式集 C#\英文好棒棒幫手2.1\obj\Debug\WindowsFormsApplication2.pdb
